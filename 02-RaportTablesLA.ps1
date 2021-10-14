@@ -14,7 +14,7 @@ Login-AzAccount
 Set-AzContext -SubscriptionId $subid
 
 ARMClient.exe azlogin
-nbhgngh
+
 # Create a report hash table
 $report = $null
 $report = @{}
