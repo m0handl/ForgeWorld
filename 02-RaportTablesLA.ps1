@@ -1,4 +1,5 @@
-## REQS ## You will need ARMClient, AZ CLI, and Az modules installed
+## REQS ## You will need ARMClient, AZ CLI, and Az modules installed https://github.com/swiftsolves-msft/PowerShell-Scripts/blob/master/TableRetentionReport.ps1
+
 
 # Variables for Workspace to report on
 $subid = "1f6bb7ce-dab8-4d53-9c3b-4a96cfc5523a"
@@ -13,7 +14,7 @@ Login-AzAccount
 Set-AzContext -SubscriptionId $subid
 
 ARMClient.exe azlogin
-
+nbhgngh
 # Create a report hash table
 $report = $null
 $report = @{}

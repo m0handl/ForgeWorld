@@ -2,10 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"name": "ARMClient",
-			"path": "..\\ARMClient\\ARMClient.Authentication\\ARMClient"
 		}
 	],
 	"settings": {}
